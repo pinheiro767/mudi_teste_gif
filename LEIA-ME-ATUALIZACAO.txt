@@ -1,0 +1,10 @@
+CAÇA CIENTÍFICA MUDI — VERSÃO APRIMORADA
+
+Personagem única: exploradora de cabelo castanho.
+Animação de corrida na abertura.
+Novos GIFs científicos animados: coração, pulmões, cérebro, intestinos, molécula.
+A célula utiliza o recurso anterior.
+Os seis QR Codes continuam em QR_CODES_IMPRIMIR.
+Publicar todos os arquivos em GitHub Pages HTTPS para câmera.
+A AR é uma sobreposição visual, sem ancoragem espacial.
+O reconhecimento de QR depende de suporte a BarcodeDetector no navegador; alternativa manual disponível.

@@ -1,0 +1,11 @@
+CAÇA CIENTÍFICA MUDI - EVENTO PRESENCIAL
+
+1. Publique o conteúdo desta pasta no GitHub Pages (HTTPS).
+2. Imprima os 6 PNGs de QR_CODES_IMPRIMIR e posicione junto aos objetos reais.
+3. O visitante abre o site, encontra a estação, escaneia o QR, vê um objeto virtual sobre o vídeo da câmera e responde a pergunta.
+4. O modo câmera é uma SOBREPOSIÇÃO visual, não rastreamento espacial real de RA/WebXR.
+5. Leitura QR via BarcodeDetector depende do navegador; sempre há entrada manual.
+6. Teste previamente em Android/iOS/tablet, internet e permissões de câmera.
+7. Evite esconder QR em áreas restritas; tenha monitores.
+8. Para impedir trapaça, monitores devem conferir a conclusão: os códigos são estáticos.
+9. A imagem do intestino é provisória e deve ser conferida antes do evento.
