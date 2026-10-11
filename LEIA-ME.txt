@@ -1,11 +1,9 @@
-CAÇA CIENTÍFICA MUDI - PROTÓTIPO COM GIFS
+MUDI Caçadores da Ciência V2
 
-1. Publique o CONTEÚDO desta pasta no GitHub Pages (raiz do repositório).
-2. Abra a URL HTTPS no celular e permita a câmera.
-3. Imprima os marcadores da pasta marcadores, preferencialmente com 12-15 cm de largura.
-4. Use outro celular ou uma folha impressa para enquadrar o QR da estação.
-5. Se o navegador não suportar leitura automática, digite MUDI-01, MUDI-02 ou MUDI-03 e toque em Validar código.
-6. Também é possível clicar em 'Ver GIF de teste' sem marcador, para conferir as animações.
-7. Capture o objeto e responda à pergunta. Repita nas três estações.
-
-ATENÇÃO: este é um protótipo de sobreposição de GIF na câmera, não um rastreamento 3D fixo no espaço. A leitura QR usa BarcodeDetector quando disponível, com fallback manual. GIFs podem ter fundos opacos, dependendo do arquivo original. A primeira visita exige internet para instalar o PWA; depois os arquivos principais ficam em cache.
+1. Publique TODO o conteúdo desta pasta na raiz do repositório GitHub Pages.
+2. Abra o link HTTPS no celular e permita acesso à câmera.
+3. Mostre um dos QR codes da pasta marcadores, em papel ou outra tela.
+4. Use Testar GIF para testar sem câmera; o campo manual fica em Problemas com a câmera ou o QR.
+5. QR: MUDI-01 Coração, MUDI-02 Pulmões, MUDI-03 Molécula.
+6. Leitor QR alternativo é carregado da internet (jsQR CDN); para leitura QR offline será preciso embutir a biblioteca. GIFs e interface podem funcionar offline após instalação/cache.
+7. Protótipo 2D sobre vídeo, não ancora objetos no espaço.
