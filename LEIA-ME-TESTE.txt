@@ -1,0 +1,10 @@
+TESTE MUDI — EXPLORADORA NA CÂMERA + QR CODES
+
+1. Publique TODOS os arquivos deste ZIP na raiz do repositório GitHub Pages.
+2. No celular, abra o site HTTPS e toque em Começar caça > Ler QR Code.
+3. A exploradora aparece no canto da câmera e pode ser tocada para pular.
+4. Aponte a câmera para os QR Codes da pasta QR_CODES_IMPRIMIR.
+5. Ao ler, veja o órgão animado e a exploradora juntos; responda à pergunta.
+6. Use Encerrar caça e zerar para reiniciar. Recarregar a página também zera a coleção.
+
+OBS: Personagem é sobreposição 2D; não fica presa ao chão real. A leitura QR depende de BarcodeDetector no navegador; alternativa manual disponível.
