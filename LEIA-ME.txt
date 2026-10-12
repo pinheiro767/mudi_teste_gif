@@ -1,9 +1,21 @@
-MUDI Caçadores da Ciência V2
+CAÇA CIENTÍFICA MUDI — TESTE SEM QR CODES
 
-1. Publique TODO o conteúdo desta pasta na raiz do repositório GitHub Pages.
-2. Abra o link HTTPS no celular e permita acesso à câmera.
-3. Mostre um dos QR codes da pasta marcadores, em papel ou outra tela.
-4. Use Testar GIF para testar sem câmera; o campo manual fica em Problemas com a câmera ou o QR.
-5. QR: MUDI-01 Coração, MUDI-02 Pulmões, MUDI-03 Molécula.
-6. Leitor QR alternativo é carregado da internet (jsQR CDN); para leitura QR offline será preciso embutir a biblioteca. GIFs e interface podem funcionar offline após instalação/cache.
-7. Protótipo 2D sobre vídeo, não ancora objetos no espaço.
+PUBLICAÇÃO
+1. Extraia o ZIP.
+2. Envie index.html e a pasta assets/ à raiz de um repositório GitHub Pages.
+3. Abra o endereço HTTPS pelo Chrome no Android.
+
+MODO AR ESPACIAL
+1. Iniciar AR espacial.
+2. Aponte para superfícies com textura e boa iluminação.
+3. Toque na tela quando aparecer o círculo para posicionar coração, pulmões e cérebro.
+4. Toque em Começar caça e entregue o celular à pessoa que vai procurar os órgãos.
+5. Caminhe até eles e toque no órgão para responder à pergunta.
+
+LIMITAÇÕES
+- Requer Chrome Android + aparelho com ARCore/WebXR immersive-ar e hit-test.
+- Os objetos permanecem no ambiente somente durante a sessão; não são persistidos entre sessões, nem compartilhados entre aparelhos.
+- Objetos são representações 3D estilizadas com imagens anatômicas planas na frente, não modelos anatômicos volumétricos 3D.
+- Alguns navegadores podem não oferecer DOM Overlay ou podem não permitir o uso dos botões durante a sessão AR. Nesses casos, o teste de AR pode ser limitado.
+- O modo simulado abre a câmera e sobrepõe imagens sem fixá-las espacialmente.
+- Requer internet para carregar a biblioteca Three.js por CDN, mesmo após instalar a página.
