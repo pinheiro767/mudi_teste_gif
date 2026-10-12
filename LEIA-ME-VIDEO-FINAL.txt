@@ -1,0 +1,1 @@
+O vídeo enviado está incorporado ao encerramento da primeira etapa (6 objetos). Ao abrir o baú, o jogo tenta reproduzir automaticamente; caso o navegador bloqueie, toque em Reproduzir vídeo final. O vídeo também pode ser reproduzido offline depois que o app for armazenado em cache.

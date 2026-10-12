@@ -1,0 +1,1 @@
+Atualização: moldura infantil incluída na tela inicial. Os 25 espaços permanecem no mapa; 6 objetos cadastrados e 19 aguardam cadastro. Vídeo de encerramento e baú final desbloqueados apenas com 25 objetos. O progresso permanece salvo no navegador. Publique todos os arquivos no GitHub Pages.

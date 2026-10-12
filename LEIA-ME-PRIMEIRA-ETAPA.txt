@@ -1,0 +1,9 @@
+CAÇA CIENTÍFICA 3D — MISSÃO EM FAMÍLIA MUDI
+Primeira etapa: 6 objetos ativos, coleção planejada para 25.
+Publicação: enviar todo o conteúdo da pasta para a raiz do repositório GitHub Pages.
+QR Codes: imprimir os 6 arquivos da pasta QR_CODES_IMPRIMIR e colocar nas estações.
+Para teste sem QR: clicar em Digitar código e usar CORACAO, PULMOES, CEREBRO, INTESTINO, CELULA ou MOLECULA.
+A visualização na câmera é uma sobreposição 2D de objeto animado, NÃO rastreamento AR espacial.
+A câmera precisa de HTTPS (GitHub Pages) e permissão do navegador.
+O jogo funciona offline depois de aberto e armazenado pelo navegador; leitura por câmera depende de suporte do navegador.
+Novos objetos poderão ser adicionados sem alterar os seis códigos existentes.
