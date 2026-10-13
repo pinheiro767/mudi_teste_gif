@@ -1,0 +1,1 @@
+VERSAO CORRIGIDA: imagens 3D substituidas pelas sequencias originais enviadas, miniaturas corrigidas. Arraste o dedo na imagem sobre a camera para trocar as vistas; sem giro automatico. A planta e o neuronio sao imagens unicas. Os 25 espacos permanecem. Recarregue a pagina ou limpe cache do site apos atualizar GitHub Pages.
