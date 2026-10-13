@@ -1,0 +1,1 @@
+Versão corrigida: coração, pulmões, cérebro, intestino, célula, molécula e planta possuem 8 vistas extraídas das sprite sheets enviadas. No encontro do objeto, use as setas ou a rotação automática. As vistas são imagens 2D de ângulos sucessivos, não um modelo 3D livre. Os 25 espaços da caça permanecem; 8 objetos configurados. Vídeo final preservado.

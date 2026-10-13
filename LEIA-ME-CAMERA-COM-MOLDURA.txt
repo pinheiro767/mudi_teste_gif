@@ -1,0 +1,1 @@
+A moldura anatômica agora aparece SOBRE o vídeo da câmera nas telas de leitura QR e visualização de objetos 3D. Para abrir câmera no celular, hospede em HTTPS (GitHub Pages) e autorize o acesso. Os 25 espaços e o vídeo final permanecem.
